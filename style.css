@@ -1,0 +1,30 @@
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 30px;
+}
+img{
+    width: 90%;
+   height: 750px;
+}
+#carouselExampleAutoplaying{
+    margin-top: 0px;
+    background-color: black;
+}
+.bot .a{
+    width: 20%;
+    height: 350px;
+    border-radius: 8px;
+    margin-left: 30px;
+}
+.bot .b{
+    width: 20%;
+    height: 350px;
+    border-radius: 8px;
+    margin-left: 17%;
+}
+.bot{
+    justify-content: space-around;
+    margin: 40px;
+}
